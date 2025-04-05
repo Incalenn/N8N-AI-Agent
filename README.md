@@ -62,6 +62,7 @@ It blends voice processing, AI inference, messaging automation, and email tools 
 7. **Telegram (SendMessage)**  
    Sends the AI’s final response (or action feedback) back to the user.
 
+![Workflow Diagram](TelegramN8NAlenn.png)
 ---
 
 ## 🛠️ Utilized Technologies  
