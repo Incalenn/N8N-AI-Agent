@@ -29,7 +29,7 @@ It blends voice processing, AI inference, messaging automation, and email tools 
 
 ---
 
-![Workflow Diagram](./pictures/Alenn Workflow N8N.png)
+![Workflow Diagram](./images/AlennWorkFlowN8N.png)
 
 ## ⚙️ Workflow Logic
 
